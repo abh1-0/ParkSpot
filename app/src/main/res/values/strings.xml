@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParkSpot</string>
+    <string name="widget_description">Fast parking saver with GPS, photos and Google Maps navigation</string>
+    <string name="take_picture">Take a picture</string>
+    <string name="mark_location">Mark location</string>
+    <string name="navigate_maps">Navigate in Google Maps</string>
+</resources>

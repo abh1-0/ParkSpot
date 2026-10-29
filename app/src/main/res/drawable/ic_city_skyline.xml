@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="160dp"
+    android:viewportWidth="400"
+    android:viewportHeight="160">
+    <!-- City silhouette outline and fill -->
+    <path
+        android:fillColor="#242830"
+        android:pathData="M0,160 L400,160 L400,126 L380,126 L380,118 L330,118 L330,112 L308,112 L308,104 L228,104 L228,114 L216,114 L216,92 L212,92 L212,65 L206,65 L206,42 L198,42 L198,18 L194,18 L194,42 L186,42 L186,65 L180,65 L180,92 L176,92 L176,114 L142,114 L142,122 L72,122 L72,128 L0,128 Z" />
+    <path
+        android:fillColor="#1B1E24"
+        android:pathData="M0,160 L400,160 L400,136 L360,136 L340,130 L250,130 L210,124 L170,124 L140,132 L60,132 L0,138 Z" />
+    <!-- Horizontal window slits on left building -->
+    <path
+        android:fillColor="#2C313B"
+        android:pathData="M80,127 h50 v2.5 h-50 z M80,134 h50 v2.5 h-50 z M80,141 h50 v2.5 h-50 z" />
+    <!-- Window slits on right building -->
+    <path
+        android:fillColor="#2C313B"
+        android:pathData="M234,110 h10 v2.5 h-10 z M234,116 h10 v2.5 h-10 z M234,122 h10 v2.5 h-10 z" />
+</vector>
